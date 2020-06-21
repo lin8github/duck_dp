@@ -4,5 +4,6 @@ public class MiniDuckSimulator {
         mallard.display();
         mallard.performQuack();
         mallard.performFly();
+        mallard.swim();
     }
 }
